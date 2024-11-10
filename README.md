@@ -1,6 +1,6 @@
 ## Hi, I'm Shwetha Sivakumar 👩‍💻👋
 
-🎓 I'm a second-year Master's in Computer Science student at Clemson University!|
+🎓 I'm a second-year Master's in Computer Science student at Clemson University!/n
 🔭 I have a solid foundation in Machine Learning and Data Engineering, backed by hands-on experience from multiple internships. 
 🌱 I’m currently learning advanced machine learning models like transformers to handle complex data in NLP and recommender systems and techniques for personalization.
 👯 I’m looking forward to collaborating on data-driven projects across industries that focus on delivering impactful insights and enhancing user experience
