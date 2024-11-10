@@ -6,7 +6,6 @@
 - 👯 I’m looking forward to collaborating on data-driven projects across industries that focus on delivering impactful insights and enhancing user experience
 - 🌐 I’m excited to explore Advanced AI solutions in natural language processing, computer vision, and reinforcement learning.
 
-[![Shwetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwethasivakumar)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
-
+![Shwetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwethasivakumar&show_icons=true&theme=radical)
 - 📫 How to reach me: ...
 
